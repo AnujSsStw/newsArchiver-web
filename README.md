@@ -3,7 +3,3 @@
 # [FrontEnd](https://melodic-travesseiro-4f46ca.netlify.app/)
 
 ![WebSite](./assets/3.PNG)
-
-# Navigate
-
-src/index.html
